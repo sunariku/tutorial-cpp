@@ -1,7 +1,7 @@
 # 📌 Poin 1
 
-- Menyiapkan **project** *console application* di IDE **Code::Blocks** dengan menggunakan **penamaan yang standar**.
-- Melakukan proses *build* (**compile**) dan *run* program C++ secara **terpisah** di Code::Blocks.
+- Menyiapkan **project** *console application* di IDE **Code Block** dengan menggunakan **penamaan yang standar**.
+- Melakukan proses *build* (**compile**) dan *run* program secara **terpisah** di Code Block.
 
 ---
 
