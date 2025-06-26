@@ -1,13 +1,36 @@
-# Poin 1
+# 📌 Poin 1
 
-- Bagaimana melakukan setup <i>project</i> <b>console application</b> di IDE Code Block dengan cara penamaan yang standar.
+- Menyiapkan **project** *console application* di IDE **Code::Blocks** dengan menggunakan **penamaan yang standar**.
+- Melakukan proses *build* (**compile**) dan *run* program C++ secara **terpisah** di Code::Blocks.
 
-- Bagaimana melakukan <i>build</i> (compile) dan <i>running</i> program cpp, secara terpisah di IDE Code Block.
+---
 
-# Poin 2
+# 📌 Poin 2
 
-- Buatlah program yang dapat menghitung nilai rerata tiga orang siswa.
-- Buatlah program yang dapat menerima input nama dari user dan menampilkannya, contoh:<br><code>Input Nama Anda: Made Subali (enter)<br>
-Halo, Made Subali</code>
+- Buatlah program yang dapat **menghitung nilai rata-rata** dari tiga orang siswa.
+- Buatlah program yang dapat menerima **input nama dari user** dan menampilkannya, contoh:
 
-# Poin 3
+  ```text
+  Input Nama Anda: Made Subali
+  Halo, Made Subali
+
+---
+
+# 📌 Poin 3
+
+- Buatlah program dalam bahasa dengan ketentuan sbb:
+
+  - Meminta **jari-jari** lingkaran dari pengguna.
+  - Menghitung:
+    - **Luas** lingkaran: 𝑳 = π × r²
+    - **Keliling** lingkaran: 𝑲 = 2 × π × r
+  - Menampilkan hasil perhitungan ke layar
+  - Gunakan nilai **π = 3.14159**
+
+---
+
+# 📌 Poin 4
+
+- Buatlah program untuk menerima nilai siswa dari user (0-100) jika nilai nilai lebih besar atau sama dengan 60 maka tampilkan pesan **siswa dinyatakan lulus**, sebaliknya maka tampilkan pesan **siswa dinyatakan tidak lulus**.
+
+- Buatlah program yang dapat menampilkan pesan **"Hello World"** (lengkap dengan tanda petik).
