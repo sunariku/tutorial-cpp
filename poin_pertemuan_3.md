@@ -7,6 +7,7 @@
 # Poin 2
 
 - Buatlah program yang dapat menghitung nilai rerata tiga orang siswa.
-- Buatlah program yang dapat menerima input nama dari user dan menampilkannya, contoh:<br><code>Input Nama Anda: Made Subali (enter)<br>Halo, Made Subali</code>
+- Buatlah program yang dapat menerima input nama dari user dan menampilkannya, contoh:<br><code>Input Nama Anda: Made Subali (enter)<br>
+Halo, Made Subali</code>
 
 # Poin 3
