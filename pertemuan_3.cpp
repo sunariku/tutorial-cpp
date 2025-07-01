@@ -8,7 +8,7 @@ int main()
   Deklarasi dan inisialisasi nilai ke variabel.
   Dalam kode berikut terdapat empat variabel, sebagai salah satu contoh:
 
-  Untuk variabelnilaiSiswa1 adalah nama variabel atau identifier, int adalah tipe datanya dan 70 adalah nilainya.
+  Untuk variabel "nilaiSiswa1" adalah nama variabel atau identifier, "int" adalah tipe datanya dan "70" adalah nilainya.
   */
 
   int nilaiSiswa1 = 70;
